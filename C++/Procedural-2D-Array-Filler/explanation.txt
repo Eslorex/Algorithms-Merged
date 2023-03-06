@@ -1,0 +1,1 @@
+Fills the 8x8 2D array depending on these rules: Every index must be at least 1. Sum of all values must be equal to 128. Its possible to configure this code depending on your demands. Written for a friend.
